@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebusman0305&show_icons=true&locale=en&layout=compact" alt="haseebusman0305" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haseebusman0305&show_icons=true&locale=en" alt="haseebusman0305" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebusman0305&show_icons=true&locale=en" alt="haseebusman0305" /></p>
