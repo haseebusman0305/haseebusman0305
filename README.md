@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haseeb Usman</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on [max-store](https://github.com/Maxed-Store/maxstore-universe)
+- 🔭 I’m currently working at [Forged Script ](https://github.com/forgedscript/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently exploring **Advanded Web Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/haseebusman0305](https://github.com/haseebusman0305)
 
