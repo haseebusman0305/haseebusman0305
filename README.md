@@ -23,9 +23,9 @@
 <a href="https://nextjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebusman0305&show_icons=true&locale=en&layout=compact" alt="haseebusman0305" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerfarok&show_icons=true&locale=en&layout=compact" alt="umerfarok" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haseebusman0305&show_icons=true&locale=en" alt="haseebusman0305" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umerfarok&show_icons=true&locale=en" alt="umerfarok" /></p>
 
 
 
