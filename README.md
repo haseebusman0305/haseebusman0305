@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Haseeb Usman</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Full Stack developer from 🌍</h3>
 
 - 🔭 I’m currently working at [Forged Script ](https://github.com/forgedscript/)
 
-- 🌱 I’m currently exploring **Advanded Web Technologies**
+- 🌱 I’m currently exploring **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/haseebusman0305](https://github.com/haseebusman0305)
 
-- 💬 Ask me about **JavaScript ,React**
+- 💬 Ask me about **NextJs,React Ntive, MERN ,TypeScript**
 
 - 📫 How to reach me **haseebusman.dev@gmail.com**
 
