@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haseeb Usman</h1>
-<h3 align="center">Trust me, I'm a Full Stack developer </h3>
+<h3 align="center">Full Stack Web and Mobile Application developer</h3>
 
 - 🔭 I’m currently working at [Forged Script ](https://github.com/forgedscript/)
 
-- 🌱 I’m currently exploring **DevOps**
+- 🌱 I’m currently exploring **DevOps,AWS Services**
 
 - 👨‍💻 All of my projects are available at [https://github.com/haseebusman0305](https://github.com/haseebusman0305)
 
