@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working at [Forged Script](https://github.com/forgedscript/)
 - 🌱 I'm currently exploring **DevOps, AWS Services, Kubernetes, CI/CD Pipelines**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/haseebusman0305)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/haseeb-usman)
 - 💬 Ask me about **Next.js, React Native, MERN, TypeScript, DevOps**
 - 📫 How to reach me: **[haseebusman.dev@gmail.com](mailto:haseebusman.dev@gmail.com)**
 
@@ -79,13 +79,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebusman0305&show_icons=true&locale=en&layout=compact" alt="haseebusman0305" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haseeb-usman&show_icons=true&locale=en&layout=compact" alt="haseeb-usman" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebusman0305&show_icons=true&locale=en" alt="haseebusman0305" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haseeb-usman&show_icons=true&locale=en" alt="haseeb-usman" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebusman0305" alt="haseebusman0305" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseeb-usman" alt="haseeb-usman" />
 </div>
